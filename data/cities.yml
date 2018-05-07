@@ -1,0 +1,12 @@
+- name: Shanghai
+  address: "Very cool city"
+  picture: https://kitt.lewagon.com/placeholder/cities/shanghai
+  user: https://kitt.lewagon.com/placeholder/users/tgenaitay
+- name: Berlin
+  address: "Top city to party"
+  picture: https://kitt.lewagon.com/placeholder/cities/berlin
+  user: https://kitt.lewagon.com/placeholder/users/ssaunier
+- name: Paris
+  address: "Paris est magique"
+  picture: https://kitt.lewagon.com/placeholder/cities/paris
+  user: https://kitt.lewagon.com/placeholder/users/papillard
